@@ -1,6 +1,6 @@
 <h1>Olá! Seja bem vindo(a) ao meu cantinho 👋😄</h1>
 
-<h3>Me chamo Jefferson, tenho 24 anos e resido em Aurora-CE.</h3>
+<h3>Me chamo Jefferson, tenho 25 anos e resido em Juazeiro do Norte-CE.</h3>
 
 * 💻 Estudante de Tecnologia<br/>
 * 🎓 Técnologo em Análise e Desenvolvimento de Sistemas<br/>
